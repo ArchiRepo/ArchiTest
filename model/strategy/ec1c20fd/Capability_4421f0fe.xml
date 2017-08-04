@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Capability"
+    id="4421f0fe"
+    documentation="A capability is an ability that the organisation has, or requires, that enables it to fulfil its objectives.&#xD;&#xA;This should avoid a description of how the capability is delivered and should concentrate instead on the outcomes desired.&#xD;&#xA;These should ideally be named from the point of view of the organisation but without reference to the structure of the organisation, a structure within the organisation will deliver the capability or contribute to its delivery.&#xD;&#xA;Capabilities are more difficult to define than you would expect at first glance but they can and do influence the way an organisation responds to the challenges it faces.">
+  <properties
+      key="Meta Model Design"
+      value="Yes"/>
+</archimate:Capability>

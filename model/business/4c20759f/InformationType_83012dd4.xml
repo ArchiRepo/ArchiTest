@@ -1,0 +1,5 @@
+<archimate:InformationType
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information Type"
+    id="83012dd4"
+    documentation="Used at a high level to describe the general type of information required.&#xD;&#xA;May assist in the categorisation of data.&#xD;&#xA;Each Information Type will be related to one or more Information Elements."/>

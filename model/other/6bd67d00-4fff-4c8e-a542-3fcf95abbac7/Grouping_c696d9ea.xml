@@ -1,0 +1,9 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Journey Element"
+    id="c696d9ea"
+    documentation="The Journey Element does not really exist as an element in its own right it is just used to group the types of element you would expect to occur within a Journey and simplify the description of the MetaModel.&#xD;&#xA;These elements are Interaction, Journey and Function.">
+  <properties
+      key="Meta Model Design"
+      value="Yes"/>
+</archimate:Grouping>

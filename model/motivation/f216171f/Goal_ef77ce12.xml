@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Goal"
+    id="ef77ce12"
+    documentation="Self explanitory really, the goal of the particular stakeholder.&#xD;&#xA;These may or may not be directly linked to specific desired capabilities">
+  <properties
+      key="Meta Model Design"
+      value="Yes"/>
+</archimate:Goal>

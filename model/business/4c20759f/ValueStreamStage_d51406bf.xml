@@ -1,0 +1,9 @@
+<archimate:ValueStreamStage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Value Stream Stage"
+    id="d51406bf"
+    documentation="A stage within a value stream that contributes to the purpose of the value stream.&#xD;&#xA;These are the element used to describe the steps in the Value Chain.">
+  <properties
+      key="Meta Model Design"
+      value="Yes"/>
+</archimate:ValueStreamStage>

@@ -1,0 +1,11 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="a2e004c7-0343-4338-86eb-fdddceaf7c41">
+  <source
+      xsi:type="archimate:Channel"
+      href="Channel_27001998.xml#27001998"/>
+  <target
+      xsi:type="archimate:CustomerFacingService"
+      href="CustomerFacingService_4f76fd74.xml#4f76fd74"/>
+</archimate:AssignmentRelationship>

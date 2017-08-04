@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Support Component"
+    id="4f301b1e"
+    documentation="Support component implement features that the service may not need to be aware of (as such) these features will typically be to do with the provision of resilliance, protective measures, monitoring and management.&#xD;&#xA;Often these are features that the end user/customer is largely unaware of as they tend to deal with issues that are useful for running and maintaining the service."/>

@@ -1,0 +1,12 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contributing Service"
+    id="d0dfd571"
+    documentation="Contributing services again will fall into several categories.&#xD;&#xA;In general these are services that the calling service is aware of, they will provide generic capability/functions that may need extending to meet the needs of this specific service, we call these extensions &quot;decorations&quot; as they are intended to be largely trivial modifications.&#xD;&#xA;These are most easily identified because they are features that support service delivery but are not core to the purpose of the service:&#xD;&#xA;&#x9;e.g. Delegating authentication (or part thereof) to a trusted third party, Secure file transfer, cryptographic features, Identity varification, *risk identification and notification/response*, controlled data access over security boundaries, Notifications, task list generation, case progression, resource allocation, workflow, Secure financial transactions, specific attribute auditing (legal / nonrepudiation), account services??, Interaction history, etc&#xD;&#xA;&#xD;&#xA;Many/Some contributing services may depend on one or more domain services to provide some context within which to deliver the required features:&#xD;&#xA;&#x9;e.g. task list generation / case progression would need information from the domain(s) that manage the information about the structure and rules of benefits: the capacity to generate task lists is then dependent on a proven scalable service configured by data, this makes modification of the rules easier and should provide a mechanism to generate predictions of the effect of rule changes.&#xD;&#xA;Perhaps needs to consider how to handle the concept of non-logical decisions, ethics of decision delegation&#xD;&#xA;&#xD;&#xA;*Risk identification and response may even fall into the category of supporting services.&#xD;&#xA;Risk identification and response needs to be baked into the infrastructure of the service delivery, I wonder if the concept of dependency injection helps us in a conceptual approach.&#xD;&#xA;Existing services that are discovered to have previously unrecognised vulnerabilities could in theory have some measure of this plugged into them??? Probably too hopeful.">
+  <properties
+      key="Meta Model Design"
+      value="Yes"/>
+  <properties
+      key="Status"
+      value="Potential; Proposed; Planned; Discovery; Alpha; Beta; Live; Legacy; Retired"/>
+</archimate:ApplicationService>

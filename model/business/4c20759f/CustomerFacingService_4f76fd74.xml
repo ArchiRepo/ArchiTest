@@ -1,0 +1,12 @@
+<archimate:CustomerFacingService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Facing Service"
+    id="4f76fd74"
+    documentation="A Customer Facing Service is the primary service presented to the customer.&#xD;&#xA;Commissioned / discovered because of the contribution it makes to fulfilling one or more business aims and stakeholder needs.&#xD;&#xA;Stakeholder needs are sometimes described in quite vague terms and may need some interpretation which is why there are Additional element of Purpose and Objective.&#xD;&#xA;Desired customer facing services should usually support / contribute to the achievement of one or more stakeholder goal.">
+  <properties
+      key="Meta Model Design"
+      value="Yes"/>
+  <properties
+      key="Status"
+      value="Potential; Proposed; Planned; Discovery; Alpha; Beta; Live; Legacy; Retired"/>
+</archimate:CustomerFacingService>

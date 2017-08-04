@@ -1,0 +1,5 @@
+<archimate:ServiceJourney
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel Specific Service Journey"
+    id="0f6c00ec"
+    documentation="A Channel Specific Service Journey is used to document the journey elements required to deliver the service (or aspect of the service) through a specific channel.&#xD;&#xA;This will include journey elements that are only required because of the capabilities / limitations of the channel in question.&#xD;&#xA;Through including the costs, time and resources needed for each interaction we can compare the different delivery channels to assess which most effectively meets the goals of the service."/>

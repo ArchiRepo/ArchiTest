@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Control Information"
+    id="327e5ac8"
+    documentation="The Control Information element is used to describe the information needed to ensure we can RUN the service, information the service needs to handle to fulfil its PURPOSE is handled elsewhere. In practice Control information is probably focussed on the delivery of supporting services. Control Information may come directly from the domain model if this information domain has already been explored there, its structure will be influenced by the domain model if it has not already been covered there.&#xD;&#xA;NOTE this is an incremental way to develop the Information Domains - this requires the intended architecture of the domains to be defined."/>

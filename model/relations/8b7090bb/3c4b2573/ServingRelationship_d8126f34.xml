@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Level 2 Capability"
+    id="d8126f34">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_4421f0fe.xml#4421f0fe"/>
+  <target
+      xsi:type="archimate:ValueStreamStage"
+      href="ValueStreamStage_d51406bf.xml#d51406bf"/>
+</archimate:ServingRelationship>

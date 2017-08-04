@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Domain Interface"
+    id="2a1ab349"
+    documentation="Nothing significantly important or different about this, it receives its name from the component that owns it."/>

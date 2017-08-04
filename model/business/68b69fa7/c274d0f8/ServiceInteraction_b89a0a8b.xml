@@ -1,0 +1,9 @@
+<archimate:ServiceInteraction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Interaction"
+    id="b89a0a8b"
+    documentation="An interaction between two or more aspects of the service to achieve some desired goal or outcome.">
+  <properties
+      key="Meta Model Design"
+      value="Yes"/>
+</archimate:ServiceInteraction>

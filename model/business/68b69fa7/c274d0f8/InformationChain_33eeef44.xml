@@ -1,0 +1,9 @@
+<archimate:InformationChain
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information Chain / Service Risk Profile"
+    id="33eeef44"
+    documentation="The Information Chain (sometimes refered to as a Service Risk Profile) is a process that describes what information is required or is being used by a journey in the achievement of its aims.&#xD;&#xA;It can contain Information Element or Data Objects.&#xD;&#xA;Each information element or data object should have characteristics that describe its purpose, source, target and sensitivity.&#xD;&#xA;Described correctly these should allow us to do an initial assessment of the risk associated with each transaction and the service as a whole.">
+  <properties
+      key="Meta Model Design"
+      value="Yes"/>
+</archimate:InformationChain>

@@ -1,0 +1,5 @@
+<archimate:ServiceJourney
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Activity"
+    id="2bdf5b42"
+    documentation="A Service activity is the description of some required or expected behaviour, it could be viewed as a separate Journey embedded within the Journey.&#xD;&#xA;Activities will generally be included to clarify the purpose or behaviour of a journey by hiding some complex or detailed behaviour that would distract from the simple description of the journey itself.&#xD;&#xA;It is used to ensure appropriate levels of detail are communicated without cluttering the diagram.&#xD;&#xA;An activity should be described in its own diagram if its behaviour is known and if this will add appropriate value to the model i.e. contribute to the understanding."/>

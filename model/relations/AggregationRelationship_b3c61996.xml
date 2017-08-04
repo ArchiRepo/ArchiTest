@@ -1,0 +1,11 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="b3c61996">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_ea3fae80.xml#ea3fae80"/>
+  <target
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_db1861d1.xml#db1861d1"/>
+</archimate:AggregationRelationship>

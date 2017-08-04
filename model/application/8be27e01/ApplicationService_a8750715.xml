@@ -1,0 +1,12 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Decoration?"
+    id="a8750715"
+    documentation="Service decoration is really just a specialisation of another service that means it can be reused in a different context, may be as simple or complex as required though if it gets complicated there are questions that must be asked over whether the reuse of the service is appropriate, or whether the service that is being reused need refactoring.&#xD;&#xA;If you have to hit it too hard to get it into the hole, it probably doesn't fit in the hole.">
+  <properties
+      key="Meta Model Design"
+      value="Yes"/>
+  <properties
+      key="Status"
+      value="Potential; Proposed; Planned; Discovery; Alpha; Beta; Live; Legacy; Retired"/>
+</archimate:ApplicationService>

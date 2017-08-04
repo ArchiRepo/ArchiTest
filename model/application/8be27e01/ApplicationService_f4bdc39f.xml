@@ -1,0 +1,12 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specialist Service"
+    id="f4bdc39f"
+    documentation="Services that are regarded as so specialist they would not be considered for reuse, the same modular construction and separation of concerns principles apply which in essence means they would be suitable candidates for reuse if wider interest in the features is discovered.&#xD;&#xA;These may then be reworked into enabling or domain services with an appropriate decoration">
+  <properties
+      key="Meta Model Design"
+      value="Yes"/>
+  <properties
+      key="Status"
+      value="Potential; Proposed; Planned; Discovery; Alpha; Beta; Live; Legacy; Retired"/>
+</archimate:ApplicationService>

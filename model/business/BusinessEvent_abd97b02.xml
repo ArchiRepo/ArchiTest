@@ -1,0 +1,5 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Event (copy)"
+    id="abd97b02"
+    documentation="Events may occur throughout Journeys but most especially will probably mark it beginning and end, the initiating and resulting (terminating) event may be more clearly represented if they sit outside the journey itself as these are the points of enrty and exit and by inference may be an intrinsic component of another journey, this reveals another possible way to represent connections between journeys that may allow for the expression of more complex multilayered journeys that are driven by events rather than strict sequencing."/>

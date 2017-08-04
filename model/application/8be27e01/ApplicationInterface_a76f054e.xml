@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Event Handler"
+    id="a76f054e"
+    documentation="Specialised interface to pick up events that need to be reacted to"/>

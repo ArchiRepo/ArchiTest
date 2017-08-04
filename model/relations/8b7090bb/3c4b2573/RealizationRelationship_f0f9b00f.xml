@@ -1,0 +1,11 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="f0f9b00f">
+  <source
+      xsi:type="archimate:CustomerJourney"
+      href="CustomerJourney_c781b092.xml#c781b092"/>
+  <target
+      xsi:type="archimate:CustomerFacingService"
+      href="CustomerFacingService_4f76fd74.xml#4f76fd74"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Abstract Elements"
+    id="2fdd66fa"
+    documentation="An abstract element is one that will (probably) never be used directly but the elements that enherit from it will be used,.&#xD;&#xA;It can be used to express properties, behaviours and relationships that apply to all the elements that are children of it."/>

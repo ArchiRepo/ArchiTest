@@ -1,0 +1,11 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="75a31375">
+  <source
+      xsi:type="archimate:CustomerJourney"
+      href="CustomerJourney_c781b092.xml#c781b092"/>
+  <target
+      xsi:type="archimate:CustomerJourney"
+      href="CustomerJourney_c781b092.xml#c781b092"/>
+</archimate:AggregationRelationship>

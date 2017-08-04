@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Requirement"
+    id="d6266622"
+    documentation="A Requirement is traditionally a formal definition of need that MUST / SHOULD / COULD be satified by the solution. (otherwise the solution will not function as desired / specified ?)&#xD;&#xA;A Requirements:&#xD;&#xA;&#x9;SHOULD be measurable&#xD;&#xA;&#x9;SHOULD be assigned priority&#xD;&#xA;&#x9;MUST be assigned a criticality.&#xD;&#xA;&#x9;&#x9;MUST/WILL/CAN, SHOULD, MAY/COULD&#xD;&#xA;Generally requirements are positive statements.&#xD;&#xA;Desired behaviour is the fundemental requirement that the service is intending to deliver, formal requirements should be used sparingly and only to enrich or quantify the understanding of this behavioural requirement.&#xD;&#xA;Requirements of whatever kind that contradict the fundemental behavioural requirement must be challenged, either the behaviour or the requirement is wrong or not understood.">
+  <properties
+      key="Meta Model Design"
+      value="Yes"/>
+</archimate:Requirement>

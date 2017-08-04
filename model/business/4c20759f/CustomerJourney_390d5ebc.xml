@@ -1,0 +1,5 @@
+<archimate:CustomerJourney
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel Specific Customer Journey"
+    id="390d5ebc"
+    documentation="A Channel Specific Customer Journey is used to document the interactions required with a customer to deliver the service (or aspect of the service) through a specific channel.&#xD;&#xA;This will include interactions that are only required because of the capabilities / limitations of the channel in question.&#xD;&#xA;This allows us to evaluate the customer experience through each of the channels."/>

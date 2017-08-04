@@ -1,0 +1,5 @@
+<archimate:ApplicationEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Event"
+    id="fe10f4dd"
+    documentation="In ArchiMate 2.x there is no application event however these events are required to describe the behaviour of the services, we have used a specialisation of a Business Event as this is better than nothing.&#xD;&#xA;This means that some of the relationships available to us are for the mean time imprecise.&#xD;&#xA;ArchiMate 3.x has included these elements."/>

@@ -1,0 +1,5 @@
+<archimate:ServiceLineJourney
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Line Journey"
+    id="dc0674b3"
+    documentation="The Service Line Journey is a way of expressing the relationship between different services offered within a service line.&#xD;&#xA;Generally this will show the sequence in which a customer is likely to access the available services or what services are available to the customer throughout certain states, generally these will be customer states but this could also represent states of the service or environment.&#xD;&#xA;Also can show how customers move between services as time progresses or circumstances change.&#xD;&#xA;As such this provides state transition views as well as high level service sequence / availability."/>

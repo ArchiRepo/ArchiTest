@@ -1,0 +1,11 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="4c2cec06">
+  <source
+      xsi:type="archimate:ServiceLineJourney"
+      href="ServiceLineJourney_dc0674b3.xml#dc0674b3"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_8f4e34b5.xml#8f4e34b5"/>
+</archimate:SpecializationRelationship>

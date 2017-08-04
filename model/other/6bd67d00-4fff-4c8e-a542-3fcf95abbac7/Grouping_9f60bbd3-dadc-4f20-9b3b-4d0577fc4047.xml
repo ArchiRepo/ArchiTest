@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Characteristics"
+    id="9f60bbd3-dadc-4f20-9b3b-4d0577fc4047"
+    documentation="Characteristics are not like the other things described in the metamodel as they have no specific element to represent them as they are things that provide useful information that is associated with the element they are associated with.&#xD;&#xA;Characteristics are expressed using appropriate model elements to help us understand the purpose, state, validity and provenance.&#xD;&#xA;Some characteristics are to do with the concepts that will be required to assess the state and usefulness of specific instances during the execution of the service."/>

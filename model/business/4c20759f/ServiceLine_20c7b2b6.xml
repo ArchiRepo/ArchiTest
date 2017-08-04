@@ -1,0 +1,5 @@
+<archimate:ServiceLine
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Line"
+    id="20c7b2b6"
+    documentation="A Service Line is a (hopefully) logically coherent collection of services.&#xD;&#xA;The service line is the way the business has decided to group and manage services. e.g. RP, PIP, UC ...&#xD;&#xA;The coherence may be derived from the intended recipient, the type of value delivered or a business imperative."/>

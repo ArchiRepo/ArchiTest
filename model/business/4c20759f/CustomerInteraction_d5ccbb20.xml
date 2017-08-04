@@ -1,0 +1,9 @@
+<archimate:CustomerInteraction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Interaction"
+    id="d5ccbb20"
+    documentation="A customer interaction represents a specific action (or closely related set of actions) that a customer must participate in order for them to achieve their goal in interacting with the service.&#xD;&#xA;These interactions must have a purpose that is aligned with delivering the value required by the customer.&#xD;&#xA;When used in channel specific customer journeys these may be needed because of some limitation of the delivery channel itself but care should be taken not to confuse this with what is fundementally important to the successful delivery of value through the service.">
+  <properties
+      key="Meta Model Design"
+      value="Yes"/>
+</archimate:CustomerInteraction>

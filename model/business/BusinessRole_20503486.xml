@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Role (copy)"
+    id="20503486"
+    documentation="The responsibility for performing specific behavior, to which an actor can be assigned/ which can be assigned to an actor.&#xD;&#xA;Roles should typically have required and/or desired competency profiles.">
+  <properties
+      key="Meta Model Design"
+      value="Yes"/>
+</archimate:BusinessRole>

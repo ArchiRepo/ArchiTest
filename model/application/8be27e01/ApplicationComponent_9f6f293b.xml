@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contributing Component"
+    id="9f6f293b"
+    documentation="Contributing components provide common features / functions that will contribute to the expected behaviour of the solution.&#xD;&#xA;These will typically be behaviours that the service that is an intrinsic part of the behaviour required to provide value to the customer."/>

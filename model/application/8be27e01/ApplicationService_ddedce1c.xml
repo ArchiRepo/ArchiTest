@@ -1,0 +1,12 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supporting Service"
+    id="ddedce1c"
+    documentation="Supporting services may fall into many categories.&#xD;&#xA;Those that the service may be unaware of, these services are often associated with Control Information:&#xD;&#xA;&#x9;e.g. services that support resillience, availablility, cyber security, service management, performance monitoring, health and usage monitoring etc.&#xD;&#xA;Those that the service needs for development and delivery:&#xD;&#xA;&#x9;e.g. Source control, Issue tracking, Dev environment, test environments, staging environments etc.">
+  <properties
+      key="Meta Model Design"
+      value="Yes"/>
+  <properties
+      key="Status"
+      value="Potential; Proposed; Planned; Discovery; Alpha; Beta; Live; Legacy; Retired"/>
+</archimate:ApplicationService>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Domain Function / Transformation"
+    id="e9f1d03b"
+    documentation="Nothing significantly important or different about this, it receives its name from the component that owns it.&#xD;&#xA;Because of the component owning this it will most likely be concerned with transformation, access or management of speciific information."/>

@@ -1,0 +1,15 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DWP MetaModel"
+    id="300e1c90"
+    version="4.0.0">
+  <properties
+      key="Version"
+      value="002.00"/>
+  <properties
+      key="Date"
+      value="01/08/2017"/>
+  <properties
+      key="Updated By"
+      value="Paul Perry"/>
+</archimate:ArchimateModel>

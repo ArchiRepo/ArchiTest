@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Purpose"
+    id="a39968c7"
+    documentation="Purpose can be used to clarify qualatative aspects of a desired capabaility, service, information element or journey element.&#xD;&#xA;These qualatative aspects may help define the Measures of effectiveness.">
+  <properties
+      key="Meta Model Design"
+      value="Yes"/>
+  <properties
+      key="Level"/>
+</archimate:Goal>

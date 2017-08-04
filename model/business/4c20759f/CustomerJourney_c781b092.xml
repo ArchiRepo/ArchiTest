@@ -1,0 +1,9 @@
+<archimate:CustomerJourney
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Journey"
+    id="c781b092"
+    documentation="A customer journey is a specialised process that only contains customer interactions.&#xD;&#xA;It is intended to indicate the sequence of interactions required to deliver value to the customer through this service.">
+  <properties
+      key="Meta Model Design"
+      value="Yes"/>
+</archimate:CustomerJourney>

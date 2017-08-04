@@ -1,0 +1,5 @@
+<archimate:ApplicationInteraction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Component Interaction"
+    id="d2134bd9"
+    documentation="Components within a bounded context need to interact with one another to deliver value to the comsumers of the services offered by the collection of components."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bounded Context"
+    id="934961d7"
+    documentation="Bounded context is intended to allow technology and service to cooperate in the logical division of behaviour into deliverable components.&#xD;&#xA;Components should have high coheasion and low coupling to reduce the possible impact of changes in the provision / realisation of this behaviour."/>

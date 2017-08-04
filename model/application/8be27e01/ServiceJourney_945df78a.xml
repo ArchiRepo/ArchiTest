@@ -1,0 +1,9 @@
+<archimate:ServiceJourney
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Journey"
+    id="945df78a"
+    documentation="A Service Journey is a specialised process that we use to document the behaviour the service itself needs to provide in order to support a customer journey.&#xD;&#xA;The Service Journey will include interactions, activities/journeys and functions that describe each element that contributes to the overall behaviour.&#xD;&#xA;This is used to drive out the details of what the behaviour means and what it comsists of to ensure it is addressed in the most effective way.&#xD;&#xA;Each Jourey Element contained in the journey should have its characteristics completed.">
+  <properties
+      key="Meta Model Design"
+      value="Yes"/>
+</archimate:ServiceJourney>

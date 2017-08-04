@@ -1,0 +1,9 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Value Stream"
+    id="6c63338c"
+    documentation="The &quot;Value Stream&quot; is an analytical construct to assist the understanding of what sequence of activities deliver value to the business.&#xD;&#xA;Each value stream is a long-lived series of process steps that is considered to deliver value to the business, customer or end user, each step or stage of the process should contribute to value for the business.&#xD;&#xA;This value may be of many types and need not be solely monetary.&#xD;&#xA;The &quot;Value Stream&quot; is a Lean and Agile term that dates from 1997 and bears much similarity to the &quot;Value Chain&quot; proposed by Michael E Porter in 1985 [1979] (Competitive Advantage: Creating and Sustaining Superior Performance)">
+  <properties
+      key="Meta Model Design"
+      value="Yes"/>
+</archimate:ValueStream>

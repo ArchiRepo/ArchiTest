@@ -1,0 +1,9 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Journey"
+    id="8f4e34b5"
+    documentation="A Journey is a series of steps that need to be undertaken to achieve a given end, we use and ArchiMate process element for this.&#xD;&#xA;This allows us to demonstrate the behaviours that are expected.&#xD;&#xA;There are two main specialisations of this in our MetaModel the Customer Journey and the Service Journey.">
+  <properties
+      key="Meta Model Design"
+      value="Yes"/>
+</archimate:Grouping>

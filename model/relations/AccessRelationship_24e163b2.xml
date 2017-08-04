@@ -1,0 +1,11 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="24e163b2">
+  <source
+      xsi:type="archimate:ValueStreamStage"
+      href="ValueStreamStage_d51406bf.xml#d51406bf"/>
+  <target
+      xsi:type="archimate:InformationConcept"
+      href="InformationConcept_312d013f.xml#312d013f"/>
+</archimate:AccessRelationship>

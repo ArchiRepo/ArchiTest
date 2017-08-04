@@ -1,0 +1,5 @@
+<archimate:InformationConcept
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information Concept"
+    id="312d013f"
+    documentation="An Information Concept is a high level description of a classification of information that has relevance from a business perspective.&#xD;&#xA;The Information Concept is used to model distinct categories of information that are thought to be of value to the business or essential.&#xD;&#xA;Information Concepts are passive. They do not trigger or perform processes.&#xD;&#xA;Information Concepts may be associated with Value Stream Stages, Service Lines and Customer Facing Services."/>

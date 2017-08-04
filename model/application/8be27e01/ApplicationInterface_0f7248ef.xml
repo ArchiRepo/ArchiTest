@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Interface"
+    id="0f7248ef"
+    documentation="Interface through which a component exposes a function it is responsible for.&#xD;&#xA;Some of these interfaces will be visible only within the bounded context, others will be ways the bounded context exposes the behaviour it encapsulates."/>

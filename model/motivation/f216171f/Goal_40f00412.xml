@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Objective"
+    id="40f00412"
+    documentation="Objective can be used to clarify the quantative aspects of a desired capability or service.&#xD;&#xA;These quantative aspects may help define the Measures of Performance.&#xD;&#xA;Modify to desired effect?">
+  <properties
+      key="Meta Model Design"
+      value="Yes"/>
+  <properties
+      key="Level"/>
+</archimate:Goal>

@@ -1,0 +1,9 @@
+<archimate:MeasureOfEffectiveness
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Measure of Effectiveness [MoE]"
+    id="c1724c73"
+    documentation="Primarily Qualitative Outcomes expected of a desired capability use in conjunction with MOP to decompose and specify measureable outcomes.">
+  <properties
+      key="Meta Model Design"
+      value="Yes"/>
+</archimate:MeasureOfEffectiveness>

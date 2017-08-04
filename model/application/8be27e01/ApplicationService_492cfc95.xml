@@ -1,0 +1,12 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Domain Service"
+    id="492cfc95"
+    documentation="Domain Services are those that are responsible for the management and manipulation of information that is important to the organisation, these domains are as far as possible self contained coherent and cohesive.&#xD;&#xA;They may be targetted at information that is of general interest to the DWP or wider government, the delivery of specific services/service lines or information important to the design of a solution/implementation&#xD;&#xA;General interest:&#xD;&#xA;&#x9;e.g. personal data, relationship data, housing/accommodation data, debt, fraud etc&#xD;&#xA;Specific services/service line:&#xD;&#xA;&#x9;e.g. Medical information, legal rulings, etc.&#xD;&#xA;Solution/implementation:&#xD;&#xA;&#x9;e.g. errr.. service management data, performance data, training records, session persistance, feature/service usage etc.">
+  <properties
+      key="Meta Model Design"
+      value="Yes"/>
+  <properties
+      key="Status"
+      value="Potential; Proposed; Planned; Discovery; Alpha; Beta; Live; Legacy; Retired"/>
+</archimate:ApplicationService>

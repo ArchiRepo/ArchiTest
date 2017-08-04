@@ -1,0 +1,9 @@
+<archimate:MeasureOfPerformance
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Measure of Performance [MoP]"
+    id="0aa17d3f"
+    documentation="Primarily Quantititve Outcomes, often use in conjunction with MOE to decompose and specify measureable outcomes.">
+  <properties
+      key="Meta Model Design"
+      value="Yes"/>
+</archimate:MeasureOfPerformance>

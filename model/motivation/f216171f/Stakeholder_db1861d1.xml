@@ -1,0 +1,5 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Claimant"
+    id="db1861d1"
+    documentation="Used specifically to represent claimant (is this a metamodel element or a state of a customer?)"/>

@@ -1,0 +1,12 @@
+<archimate:InformationElement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information Element"
+    id="1c6cfa54"
+    documentation="The information element is used to provide a high level description of information that is required in order to deliver a service / solution, the information may be consumed or provided (or correlated).">
+  <properties
+      key="Meta Model Design"
+      value="Yes"/>
+  <properties
+      key="Status"
+      value="Potential; Proposed; Planned; Discovery; Alpha; Beta; Live; Legacy; Retired"/>
+</archimate:InformationElement>

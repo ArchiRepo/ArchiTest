@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supporting Interface"
+    id="8dd7afa9"
+    documentation="The interface that exposes a supporting function allowing it to be called.&#xD;&#xA;In the case of supporting components often these will be required interfaces - rather than providing and interface to call these will be utilising interfaces provided by the component/service it is supporting."/>

@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="f6d6d3a0">
+  <source
+      xsi:type="archimate:Channel"
+      href="Channel_27001998.xml#27001998"/>
+  <target
+      xsi:type="archimate:CustomerJourney"
+      href="CustomerJourney_390d5ebc.xml#390d5ebc"/>
+</archimate:ServingRelationship>

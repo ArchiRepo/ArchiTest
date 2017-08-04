@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service"
+    id="d838897d"
+    documentation="A service is described as &quot;The delivery of some value to another party&quot;, to deliver value a service needs to be enabled by one or more &quot;capabilities&quot;.&#xD;&#xA;&#xD;&#xA;A service will have at least two participants even though the interaction may not be obvious, the value delivered should be obvious direct value even though the mechanism through which it is delivered may be indirect.&#xD;&#xA;&#xD;&#xA;Services are valid at many different levels n the architecture, some will require specific participants other services, although they may be defined within a specific context, describe a service which is more of a commodity.&#xD;&#xA;&#xD;&#xA;The service should have a clearly defined scope."/>

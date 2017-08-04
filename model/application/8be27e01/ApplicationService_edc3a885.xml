@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service"
+    id="edc3a885"
+    documentation="The Service is the element we use primarily to describe the actions / features / activities that need to take place to ensure the service calling it is able to fulfil its PURPOSE, this will address the objectives of stakeholders who are interested in the outcomes of the service NOT the RUNNING of the sevice.">
+  <properties
+      key="Status"
+      value="Potential; Proposed; Planned; Discovery; Alpha; Beta; Live; Legacy; Retired"/>
+</archimate:ApplicationService>

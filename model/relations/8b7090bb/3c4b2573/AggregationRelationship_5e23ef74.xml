@@ -1,0 +1,11 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="5e23ef74">
+  <source
+      xsi:type="archimate:ValueProposition"
+      href="ValueProposition_abd1786f.xml#abd1786f"/>
+  <target
+      xsi:type="archimate:Value"
+      href="Value_b18f1280.xml#b18f1280"/>
+</archimate:AggregationRelationship>

@@ -1,0 +1,5 @@
+<archimate:InformationDomain
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information Domain"
+    id="3f5c0685-2237-4452-bafc-9f7a3d1471c6"
+    documentation="The information domain is a logical grouping of information elements that facilitate the analysis and coherence of the aspects desired in the final solution.&#xD;&#xA;This construct is to clarify through separation into logically and philisophically separate and coherent domains, these will not require the physical impementation to follow but rather acts ass an anchor to tether the separate physical instances and guide their implementation where it is possible to correlate these it may bve desirable"/>

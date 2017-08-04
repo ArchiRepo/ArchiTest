@@ -1,0 +1,22 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Journey Element Characteristics"
+    id="804ab77a"
+    documentation="Each element of a journey may/should/will have characteristics that describe the element of the journey in terms of its Source (initiator), Target (respondant), Purpose, Performance, Resillience, Reliability and Sensitivity etc., some of these may/should be included as specific Quality or Measures requirements / constraints">
+  <properties
+      key="Source"
+      value="Customer, Service, External"/>
+  <properties
+      key="Visibility"
+      value="Private, Departmental, Public"/>
+  <properties
+      key="Durability"
+      value="Persistent, Journey, Transient"/>
+  <properties
+      key="Target"
+      value="Customer, Service"/>
+  <properties
+      key="Sensitivity"/>
+  <properties
+      key="Effect"/>
+</archimate:DataObject>
